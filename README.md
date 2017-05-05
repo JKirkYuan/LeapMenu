@@ -7,7 +7,7 @@ This is the repo for my Interactive Leap Motion Menu
 # install UNITY
 
 # clone & setup
-git clone https://github.com/JKirkYuan/LeapMenu.git && cd Leap_Gestures  
+git clone https://github.com/JKirkYuan/LeapMenu.git && cd Leap_Menu 
 
 Download the lastest core assets from https://developer.leapmotion.com/unity#100
 Assets > Import Package > Custom Package
