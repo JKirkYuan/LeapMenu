@@ -4,19 +4,18 @@ This is the repo for my Interactive Leap Motion Menu
 
 ### Get Set Up!
 ```bash
-# install UNITY(Currently only working on 32-bit systems and Unity 5.5)
+# install UNITY(Unity 5.5)
 
 # clone & setup
-git clone https://github.com/JKirkYuan/LeapMenu.git && cd Leap_Menu 
+git clone https://github.com/JKirkYuan/LeapMenu.git && cd Leap_Menu
 
 # Find the Scene
 Go into Assets > LeapMotion > Scenes > Buttons_Scene.unity
 Double click and you have everything setup!
 
 ```
-## Bug
-Currently doesn't work on MacOS for some strange reason :/ 
-Looking for a fix soon
+### Testing
+Currently does not work for MacOS because Leap Motion Orion is *currently* only available for Windows 
 
 ## License
 
