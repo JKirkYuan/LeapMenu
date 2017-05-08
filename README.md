@@ -4,7 +4,7 @@ This is the repo for my Interactive Leap Motion Menu
 
 ### Get Set Up!
 ```bash
-# install UNITY
+# install UNITY(Currently only working on 32-bit systems and Unity 5.5)
 
 # clone & setup
 git clone https://github.com/JKirkYuan/LeapMenu.git && cd Leap_Menu 
